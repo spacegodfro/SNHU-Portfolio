@@ -11,14 +11,7 @@
 ---
 
 ## Project Overview
-> *A brief description of the project, summarizing its main purpose and functionality.*
-
----
-
-## Application Requirements and Goals
-> *Summarize the requirements and goals of the application here. Describe the user needs this application was designed to address.*
-
----
+> This project aimed to set up an application that allowed Students to register for their prospective courses in a timeley and orderly fashion. The application can be used to speed up the task of registering for courses without consulting an advisor. The application addresses mistakes that the user can make by checking for null inputs, repeated inputs, or inputs that would cause the amount of course hours in a semester to exceed 9.
 
 ## Development Highlights
 > *Detail aspects that you executed particularly well in developing this application.*
