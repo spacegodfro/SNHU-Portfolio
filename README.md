@@ -14,16 +14,16 @@
 > This project aimed to set up an application that allowed Students to register for their prospective courses in a timeley and orderly fashion. The application can be used to speed up the task of registering for courses without consulting an advisor. The application addresses mistakes that the user can make by checking for null inputs, repeated inputs, or inputs that would cause the amount of course hours in a semester to exceed 9.
 
 ## Development Highlights
-> *Detail aspects that you executed particularly well in developing this application.*
+> During the development of this project I feel that I enjoyed and understood the process of creating methods and variables for their use later or elsewhere in the code. Sometimes I found round about ways to solve problems, but I feel that this stemmed from my creativity in problem solving. 
 
 ---
 
 ## Console vs. WPF Application Design
 ### Console Application Design
-> *Briefly describe the console application, its screens, features, and how it met user needs.*
+> The console application provided a quick and easy method for interfacing with a computer to select courses to enroll in. The user was presented with a list of courses and their corresponding number and was asked to enter the number that corresponded with the course they wanted to enroll in. Once a user chose a course they were shown what they were registered in said course. Input validation was built in to ensure duplicate registration was not allowed and that 9 credit hours were not exceeded during its run time. 
 
 ### WPF Application Design
-> *Outline the WPF design, including necessary screens and features for a user-centered UI. Explain how these designs kept users in mind and why they were effective.*
+> The WPF application took the coding capability of the previous command line interface version and turned them into a useable GUI. 
 
 ---
 
